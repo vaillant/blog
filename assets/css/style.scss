@@ -1,0 +1,10 @@
+/* Hide the language selector button in the top bar */
+#lang-dropdown .lang-dropdown {
+  display: none !important;
+}
+
+#lang-selector,
+.lang-selector,
+.sidebar-lang {
+  display: none !important;
+}

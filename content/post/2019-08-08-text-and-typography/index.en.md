@@ -1,14 +1,11 @@
 ---
-title: Text and Typography
-date: 2019-08-08 11:33:00 +0800
+title: Dummy first blog entry
+date: 2026-01-10 11:33:00 +0800
 draft: false
 description: >-
-  Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-categories:
-  - Blogging
-  - Demo
+  What to write about and what to do.
 tags:
-  - typography
+  - homelab
 pin: true
 math: true
 image:
@@ -17,18 +14,8 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-## Headings
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
 # H1 — heading {data-toc-skip=true .mt-4 .mb-0 }
-
-## H2 — heading {data-toc-skip=true .mt-4 .mb-0 }
-
-### H3 — heading {data-toc-skip=true .mt-4 .mb-0 }
-
-#### H4 — heading {data-toc-skip=true .mt-4 }
-<!-- markdownlint-restore -->
 
 ## Paragraph
 
